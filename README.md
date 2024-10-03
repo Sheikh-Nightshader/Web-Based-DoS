@@ -1,0 +1,1 @@
+Web-Based Denial of Service tool, Supports HTTP/TCP and UDP Floods. You can run this on your locally or on your public site. For educational use only. I take no responsibility for the use or misuse of this tool. 
